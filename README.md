@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### HI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Nicolas Moreira Oliveira, Free lance developer, student.
 My code is written in javascript, html, css.
 I also code in C,C++, java and python.
