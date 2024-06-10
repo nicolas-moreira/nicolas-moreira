@@ -1,7 +1,7 @@
 ### HI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Nicolas Moreira Oliveira
-<br> *I'm a junior backend developper* 🤠
-<br><br> I'm working on new web experiences & also a lot of backend.
+<br> *Tech Lead and fullstack ninja dev at SPT* 🤠
+<br><br> Currently working on advance security and devops operations.
 
 **Languages & tools I use:**
 
