@@ -1,7 +1,6 @@
 ### HI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Nicolas Moreira Oliveira
-<br> *Tech Lead and fullstack ninja dev at SPT* 🤠
-<br><br> Currently working on advance security and devops operations.
+<br> *fullstack dev at SPT* 🤠
 
 **Languages & tools I use:**
 
